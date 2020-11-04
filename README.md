@@ -17,3 +17,8 @@ Note: Select Add Typescript to see what is in the recipe
 gatsby recipes typescript --install
 
 
+
+
+//////Showing rich text
+
+npm i @contentful/rich-text-react-renderer --save
