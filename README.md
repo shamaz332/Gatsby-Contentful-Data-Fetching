@@ -22,3 +22,10 @@ gatsby recipes typescript --install
 //////Showing rich text
 
 npm i @contentful/rich-text-react-renderer --save
+
+////making .env file
+
+npm i dotenv --save
+
+require and config dotenv package in gatsby-config.js file
+
